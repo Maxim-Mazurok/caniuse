@@ -18,7 +18,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"MediaQueryList.addEventListener doesn't work in Safari, use addListener instead"
+    }
   ],
   "categories":[
     "DOM"
